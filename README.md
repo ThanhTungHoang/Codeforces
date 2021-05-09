@@ -1,4 +1,1 @@
-
-(\_/)
-( •_•)
-/ >Codeforces
+#Codeforces
